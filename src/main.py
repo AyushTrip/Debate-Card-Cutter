@@ -166,7 +166,7 @@ try:
     content_style.size = Pt(11.75)
 
     #Save card
-    card.save('C:/Users/ayush/OneDrive/Desktop/Coding Portfolio/cards/card.docx')
+    card.save('C:/Users/Desktop/cards/card.docx')
 
 except:
     print("An error has occured. Please restart the program, check to see if the base url is correct, file path is correct, and program has no syntax issues.")
